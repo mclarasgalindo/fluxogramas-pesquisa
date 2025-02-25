@@ -135,8 +135,12 @@ Fluxogramas ajudam a visualizar e organizar a lógica de programas ou algoritmos
 #### . Google Drawings – Ferramenta simples e gratuita para diagramas básicos.
 
 ## Prática
-![sistemas operacionais]()
+![sistemas operacionais](cadastro.png)
+![sistemas operacionais](parouimpar)
+
 
 
 ## Conclusão
+O fluxograma é uma ferramenta essencial para visualizar e otimizar processos, sendo amplamente utilizado em diversas áreas. Sua simplicidade e a utilização de símbolos padronizados facilitam o entendimento e a melhoria de fluxos de trabalho. As ferramentas disponíveis tornam sua criação mais acessível, reafirmando sua importância na organização e eficiência de processos.
+
 ![sistemas operacionais](https://i.giphy.com/GeimqsH0TLDt4tScGw.webp)
