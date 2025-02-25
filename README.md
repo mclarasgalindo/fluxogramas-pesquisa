@@ -1,4 +1,5 @@
 # Fluxogramas-pesquisa
+   ![sistemas operacionais](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl1amNzeHF2OXA4MGJndTRjYXc4ZTJmandxbnNzdzhmbm41ZnJnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GBBMp4eMqJNzXbtRzG/giphy.gif)
 
 ## Introdução:
 Neste trabalho, exploraremos o que é um fluxograma, seus principais símbolos e como ele é utilizado no desenvolvimento de sistemas, além de apresentar ferramentas eficientes para a criação desses diagramas.
@@ -136,7 +137,8 @@ Fluxogramas ajudam a visualizar e organizar a lógica de programas ou algoritmos
 
 ## Prática
 ![sistemas operacionais](cadastro.png)
-![sistemas operacionais](https://github.com/mclarasgalindo/fluxogramas-pesquisa/blob/main/par%20ou%20impar.fprg)
+
+![sistemas operacionais](par.png)
 
 
 
