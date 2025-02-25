@@ -1,5 +1,8 @@
 # Fluxogramas-pesquisa
 
+## Introdução:
+Neste trabalho, exploraremos o que é um fluxograma, seus principais símbolos e como ele é utilizado no desenvolvimento de sistemas, além de apresentar ferramentas eficientes para a criação desses diagramas.
+
 ## O que é um fluxograma?
 O fluxograma é uma ferramenta que ilustra as etapas, sequências e decisões de um processo ou fluxo de trabalho, sendo a forma mais simples de um mapa de processo. Ele é usado para planejar, visualizar, documentar e otimizar processos em diversas áreas. 
 Foi apresentado pelos engenheiros Frank e Lillian Gilbreth à American Society of Mechanical Engineers (ASME) em 1921 e, desde então, passou por aprimoramentos para ser utilizado em diversos setores.tendo hoje mais de 30 símbolos para criar e padronizar na criação desse diagrama.
@@ -124,5 +127,12 @@ Fluxogramas ajudam a visualizar e organizar a lógica de programas ou algoritmos
 ![sistemas operacionais](https://www.bosontreinamentos.com.br/wp-content/uploads/2013/06/fluxograma-exercicio-vetores-logica-1024x642.png)
 
 ### Ferramentas para criação de um fluxograma
+#### . Lucidchart – Fácil de usar, versão gratuita limitada e integrações.
+#### . Draw.io (diagrams.net) – Gratuita, sem necessidade de cadastro e muito prática.
+#### . Microsoft Visio – Tradicional, oferece muitos templates e funcionalidades avançadas (pago).
+#### . Canva – Ideal para designs gráficos, com templates de fluxogramas (versão gratuita e paga).
+#### . Coggle – Simples e colaborativa, com versão gratuita limitada.
+#### . Google Drawings – Ferramenta simples e gratuita para diagramas básicos.
 
-
+## Conclusão
+![sistemas operacionais](https://i.giphy.com/GeimqsH0TLDt4tScGw.webp)
