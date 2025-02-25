@@ -134,5 +134,9 @@ Fluxogramas ajudam a visualizar e organizar a lógica de programas ou algoritmos
 #### . Coggle – Simples e colaborativa, com versão gratuita limitada.
 #### . Google Drawings – Ferramenta simples e gratuita para diagramas básicos.
 
+## Prática
+![sistemas operacionais]()
+
+
 ## Conclusão
 ![sistemas operacionais](https://i.giphy.com/GeimqsH0TLDt4tScGw.webp)
