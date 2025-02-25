@@ -136,7 +136,7 @@ Fluxogramas ajudam a visualizar e organizar a lógica de programas ou algoritmos
 
 ## Prática
 ![sistemas operacionais](cadastro.png)
-![sistemas operacionais](parouimpar)
+![sistemas operacionais](https://github.com/mclarasgalindo/fluxogramas-pesquisa/blob/main/par%20ou%20impar.fprg)
 
 
 
