@@ -44,7 +44,8 @@ Use esse símbolo para ilustrar onde os documentos são criados, revisados ou ut
 Mapeie os processos que envolvem recuperação ou armazenamento de dados com este símbolo que ajuda a identificar onde os dados são armazenados e acessados.
 
 ### Símbolo de entrada manual
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-477.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-478.png)
+
 Use esse símbolo para destacar interações do usuário que exigem entrada de dados, o que pode ser crucial para entender as dependências do processo em ações manuais.
 
 ###  Símbolo de preparação
@@ -53,64 +54,75 @@ Use esse símbolo para destacar interações do usuário que exigem entrada de d
 Use esse símbolo para ilustrar ações preparatórias que preparam o cenário para as etapas subsequentes, garantindo que os pré-requisitos sejam claramente identificados.
 
 ### Símbolo de atraso
-![sistemas operacionais]()
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Delay-symbol-.png)
 
 Use este símbolo para indicar períodos de espera e atrasos no processo. Ele ajuda a identificar áreas potenciais onde há perda de tempo e onde podem ser feitas melhorias. Adicione também um rótulo especificando a duração.
 
 ### Símbolo do conector
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-480.png)
 
 Adicione este símbolo para linkar diferentes partes do fluxograma que, de outra forma, seriam difíceis de acompanhar, especialmente em diagramas grandes ou complexos.
 
 ### Símbolo de conector fora da página
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-481.png)
 
 Garanta a continuidade em fluxogramas de várias páginas usando esse símbolo para conectar perfeitamente os processos entre as páginas, mantendo um fluxo lógico.
 
 ### Símbolo de mesclagem
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Merge-symbol-.png)
 
 Com esse símbolo, você pode converter vários caminhos paralelos em um só, simplificando fluxos de trabalho complexos e esclarecendo como diferentes ramificações são reconciliadas.
 
 ### Símbolo de dados armazenados
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Stored-data-symbol-.png)
 
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-482.png)
 
 Indica onde os dados são armazenados de forma persistente (geralmente em um banco de dados ou em outra mídia de armazenamento), destacando os pontos de retenção de dados no processo. Isso difere do símbolo de armazenamento interno que é usado principalmente em fluxogramas de projeto de software.
 
 
 ### Símbolo da tela
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Display-symbol.png)
 
 Use esse símbolo para mostrar onde as saídas são visualizadas, como em uma tela ou monitor, o que é importante para processos que envolvem a interação do usuário com os dados exibidos.
 
 ### Símbolo de chamada
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Callout-symbol-.png)
 
 Fornece informações, comentários ou explicações adicionais que são relevantes para uma determinada etapa ou decisão em um fluxograma e esclarece etapas ou decisões complexas. Esse símbolo ajuda a oferecer detalhes adicionais que podem não se encaixar perfeitamente nos símbolos primários.
 
 ###  Símbolo de soma de junções
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Summing-junction-symbol.png)
 
 Ilustre os pontos do processo em que várias entradas são combinadas com este símbolo. Ele fornece um visual claro das operações cumulativas.
 
 ###  Símbolo de processo predefinido
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-483.png)
 
 Use os símbolos de processo predefinidos para fazer referência a processos que estão detalhados em outros fluxogramas ou seções, ajudando a simplificar diagramas complexos ao evitar redundância.
 
-###Símbolo de vários documentos
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+### Símbolo de vários documentos
+
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-484.png)
 
 Ilustre cenários em que vários documentos são gerados ou referenciados usando esse símbolo, auxiliando na compreensão de fluxos de trabalho com muitos documentos.
 
 ### Símbolo de operação manual
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-485.png)
 
 Use esse símbolo para denotar tarefas manuais dentro do processo, o que é crucial para entender onde a intervenção humana é necessária.
 
-
 ### Ou símbolo
-![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/Arrow.png)
+![sistemas operacionais](https://clickup.com/blog/wp-content/uploads/2024/09/image-486.png)
+
 Use esse símbolo para mostrar pontos no processo em que resultados múltiplos são possíveis, ajudando a ilustrar cenários complexos de tomada de decisão.
+
+
+## Como os fluxogramas são utilizados no desenvolvimento de sistemas?
+Fluxogramas ajudam a visualizar e organizar a lógica de programas ou algoritmos antes de codificar. Eles mostram a estrutura do código e a navegação de usuários. Outros diagramas relacionados incluem UML, Diagramas Nassi-Schneiderman e Gráficos DRAKON, usados para modelagem e programação visual.
+
+![sistemas operacionais](https://www.bosontreinamentos.com.br/wp-content/uploads/2013/06/fluxograma-exercicio-vetores-logica-1024x642.png)
+
+### Ferramentas para criação de um fluxograma
+
+
